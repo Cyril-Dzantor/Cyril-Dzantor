@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cyril Kojo Dzantor</h1>
-<h3 align="center">A passionate Data Scientist from Ghana</h3>
+<h3 align="center">Let's delve into the world of data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyril-dzantor&label=Profile%20views&color=0e75b6&style=flat" alt="cyril-dzantor" /> </p>
 
